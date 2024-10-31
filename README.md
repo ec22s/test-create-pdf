@@ -3,7 +3,5 @@
 ### Ref.
 - https://kic-yuuki.hatenablog.com/entry/2020/01/25/130303
 - https://www.npmjs.com/package/md-to-pdf
-
-<div style="page-break-before:always"></div>
-
-# Page.2
+- https://dev.classmethod.jp/articles/md-to-pdf/
+- https://qiita.com/0xmks/items/4fec4116bb42120f5180
